@@ -60,5 +60,7 @@
     }
   },
   "theme": "template-default",
-  "blocks": []
+  "blocks": [
+    "./ramadan-cagnotte.json"
+  ]
 }
