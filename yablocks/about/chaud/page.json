@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "chauffage",
+    "description": "",
+    "keywords": []
+  },
+  "theme": "light",
+  "blocks": [
+    "./glass-hero-centered.json"
+  ]
+}
