@@ -1,5 +1,7 @@
 {
   "images": [],
-  "logos": [],
+  "logos": [
+    "/logos/logo-1.png"
+  ],
   "assets": []
 }
