@@ -19,8 +19,6 @@
   },
   "theme": "template-default",
   "blocks": [
-    "../_shared/navigation.json",
-    "./not_found.json",
-    "../_shared/footer.json"
+    "./not_found.json"
   ]
 }

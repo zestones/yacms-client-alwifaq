@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/conversion/countdown/RamadanCagnotte",
+    "component": "blocks/content/cta/RamadanCagnotte",
     "section": "ramadan/ramadan-cagnotte"
   },
   "data": {
