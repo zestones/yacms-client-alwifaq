@@ -2,7 +2,12 @@
   "meta": {
     "title": "Al-Wifaq | Ramadan 2026",
     "description": "",
-    "keywords": []
+    "keywords": [],
+    "og": {
+      "type": "website",
+      "image": "/logos/og-home.png",
+      "imageAlt": "Al-Wifaq logo"
+    }
   },
   "theme": "elegant",
   "blocks": [
