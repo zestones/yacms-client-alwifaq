@@ -47,12 +47,16 @@
     ],
     "sideInfo": [
       {
-        "label": "Jomoa",
-        "value": "13:30"
-      },
-      {
         "label": "Chourouk",
         "value": "07:09"
+      },
+      {
+        "label": "Jumu'a",
+        "value": "12:30"
+      },
+      {
+        "label": "Jumu'a",
+        "value": "13:30"
       }
     ],
     "prayerTimesCSV": "/assets/prayer-times.csv"
