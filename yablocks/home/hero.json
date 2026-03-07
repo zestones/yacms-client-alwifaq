@@ -1,33 +1,33 @@
 {
-    "meta": {
-        "component": "blocks/layout/hero/Hero009",
-        "section": "mosque/hero"
+  "meta": {
+    "component": "blocks/layout/hero/Hero009",
+    "section": "mosque/hero"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/image 22 1.png",
+      "alt": "Rendu 3D de la future mosquée Al Wifaq à Saint-Étienne"
     },
-    "data": {
-        "backgroundImage": {
-            "src": "/images/mosque-render-3d.jpg",
-            "alt": "Rendu 3D de la future mosquée Al Wifaq à Saint-Étienne"
-        },
-        "title": "Construisons ensemble la future mosquée de Saint-Étienne",
-        "subtitle": "Née de l'union de deux mosquées, Al Wifaq rassemble depuis plus de 40 ans les musulmans du quartier Montchovet. Aujourd'hui, nous bâtissons un lieu de culte, d'éducation et de fraternité pour les générations futures.",
-        "cta": {
-            "primary": {
-                "text": "Contribuer au projet",
-                "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
-            },
-            "secondary": {
-                "text": "Découvrir le projet",
-                "link": "#section-timeline"
-            }
-        },
-        "card": {
-            "badge": "Phase 2 — En cours",
-            "stat": "1 410",
-            "statDescription": "m² sur 3 niveaux pour accueillir prière, éducation et vie communautaire.",
-            "image": {
-                "src": "/images/plan-archi.png",
-                "alt": "Plan architectural de la future mosquée Al Wifaq"
-            }
-        }
+    "title": "Construisons ensemble la future mosquée de Saint-Étienne",
+    "subtitle": "Née de l'union de deux mosquées, Al Wifaq rassemble depuis plus de 40 ans les musulmans du quartier Montchovet. Aujourd'hui, nous bâtissons un lieu de culte, d'éducation et de fraternité pour les générations futures.",
+    "cta": {
+      "primary": {
+        "text": "Contribuer au projet",
+        "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+      },
+      "secondary": {
+        "text": "Découvrir le projet",
+        "link": "#section-timeline"
+      }
+    },
+    "card": {
+      "badge": "Phase 2 — En cours",
+      "stat": "1 410",
+      "statDescription": "m² sur 3 niveaux pour accueillir prière, éducation et vie communautaire.",
+      "image": {
+        "src": "/images/plan-archi.png",
+        "alt": "Plan architectural de la future mosquée Al Wifaq"
+      }
     }
+  }
 }
