@@ -1,33 +1,33 @@
 {
-    "meta": {
-        "title": "Mosquée Al Wifaq — Construisons ensemble la mosquée de Saint-Étienne",
-        "description": "La mosquée Al Wifaq à Saint-Étienne : un projet communautaire unique porté par la générosité des fidèles. Découvrez le projet, suivez l'avancement et contribuez à la construction.",
-        "keywords": [
-            "mosquée",
-            "Al Wifaq",
-            "Saint-Étienne",
-            "construction mosquée",
-            "don mosquée",
-            "sadaqah jariyah",
-            "Montchovet"
-        ],
-        "og": {
-            "type": "website",
-            "image": "/logos/og-home.png",
-            "imageAlt": "Mosquée Al Wifaq — Saint-Étienne"
-        }
-    },
-    "theme": "elegant",
-    "blocks": [
-        "./navigation.json",
-        "./hero.json",
-        "./stats.json",
-        "./features.json",
-        "./timeline.json",
-        "./portfolio.json",
-        "./team.json",
-        "./testimonial.json",
-        "./contact.json",
-        "./footer.json"
-    ]
+  "meta": {
+    "title": "Mosquée Al Wifaq — Construisons ensemble la mosquée de Saint-Étienne",
+    "description": "La mosquée Al Wifaq à Saint-Étienne : un projet communautaire unique porté par la générosité des fidèles. Découvrez le projet, suivez l'avancement et contribuez à la construction.",
+    "keywords": [
+      "mosquée",
+      "Al Wifaq",
+      "Saint-Étienne",
+      "construction mosquée",
+      "don mosquée",
+      "sadaqah jariyah",
+      "Montchovet"
+    ],
+    "og": {
+      "type": "website",
+      "image": "/logos/og-home.png",
+      "imageAlt": "Mosquée Al Wifaq — Saint-Étienne"
+    }
+  },
+  "theme": "theme001",
+  "blocks": [
+    "./navigation002.json",
+    "./hero.json",
+    "./stats.json",
+    "./features.json",
+    "./timeline.json",
+    "./portfolio.json",
+    "./team.json",
+    "./testimonial.json",
+    "./contact.json",
+    "./footer.json"
+  ]
 }

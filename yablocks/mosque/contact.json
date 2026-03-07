@@ -1,44 +1,44 @@
 {
-    "meta": {
-        "component": "blocks/content/contact/Contact01",
-        "section": "mosque/contact"
+  "meta": {
+    "component": "blocks/content/contact/Contact01",
+    "section": "mosque/contact"
+  },
+  "data": {
+    "formTitle": "Nous contacter",
+    "formLabels": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "privacyPrefix": "En soumettant ce formulaire, vous acceptez notre",
+      "privacyLink": "politique de confidentialité",
+      "privacyHref": "/confidentialite",
+      "submit": "Envoyer"
     },
-    "data": {
-        "formTitle": "Nous contacter",
-        "formLabels": {
-            "firstName": "Prénom",
-            "lastName": "Nom",
-            "email": "Email",
-            "message": "Message",
-            "privacyPrefix": "En soumettant ce formulaire, vous acceptez notre",
-            "privacyLink": "politique de confidentialité",
-            "privacyHref": "/confidentialite",
-            "submit": "Envoyer"
-        },
-        "formPlaceholders": {
-            "firstName": "Votre prénom",
-            "lastName": "Votre nom",
-            "email": "votre@email.com",
-            "message": "Votre message..."
-        },
-        "infoTitle": "Mosquée Al Wifaq",
-        "infoDescription": "Association Cultuelle de Montchovet et de Saint-Étienne. Financée exclusivement par les dons des fidèles, tous nos membres œuvrent bénévolement Fi Sabil'Allah.",
-        "contactOptions": [
-            {
-                "icon": "map-pin",
-                "info": "Square Auguste Renoir, 42100 Saint-Étienne",
-                "href": "https://maps.google.com/?q=Square+Auguste+Renoir+42100+Saint-Etienne"
-            },
-            {
-                "icon": "building",
-                "info": "Futur emplacement : Impasse de la Paille, 42100 Saint-Étienne",
-                "href": "https://maps.google.com/?q=Impasse+de+la+Paille+42100+Saint-Etienne"
-            },
-            {
-                "icon": "heart",
-                "info": "Faire un don sur HelloAsso",
-                "href": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
-            }
-        ]
-    }
+    "formPlaceholders": {
+      "firstName": "Votre prénom",
+      "lastName": "Votre nom",
+      "email": "votre@email.com",
+      "message": "Votre message..."
+    },
+    "infoTitle": "Mosquée Al Wifaq",
+    "infoDescription": "Association Cultuelle de Montchovet et de Saint-Étienne. Financée exclusivement par les dons des fidèles, tous nos membres œuvrent bénévolement Fi Sabil'Allah.",
+    "contactOptions": [
+      {
+        "icon": "ticket",
+        "info": "Square Auguste Renoir, 42100 Saint-Étienne",
+        "href": "https://maps.google.com/?q=Square+Auguste+Renoir+42100+Saint-Etienne"
+      },
+      {
+        "icon": "ticket",
+        "info": "Futur emplacement : Impasse de la Paille, 42100 Saint-Étienne",
+        "href": "https://maps.google.com/?q=Impasse+de+la+Paille+42100+Saint-Etienne"
+      },
+      {
+        "icon": "ticket",
+        "info": "Faire un don sur HelloAsso",
+        "href": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+      }
+    ]
+  }
 }
