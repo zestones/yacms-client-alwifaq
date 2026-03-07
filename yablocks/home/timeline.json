@@ -1,79 +1,79 @@
 {
-    "meta": {
-        "component": "blocks/content/process/Timeline001",
-        "section": "mosque/timeline"
-    },
-    "data": {
-        "badge": "Notre Parcours",
-        "title": "40 ans d'histoire, une mosquée en construction",
-        "subtitle": "De l'union de deux mosquées à la construction d'un lieu de culte digne de notre communauté, retour sur les étapes clés du projet Al Wifaq.",
-        "items": [
-            {
-                "year": "~1980",
-                "title": "Naissance d'Al Wifaq",
-                "description": "L'union de deux mosquées historiquement présentes dans le quartier Montchovet donne naissance à Al Wifaq. La communauté grandit malgré 6 déménagements forcés — gymnase, église, locaux provisoires.",
-                "image": {
-                    "src": "/images/current-building.png",
-                    "alt": "Bâtiment historique de la mosquée Al Wifaq à Montchovet"
-                },
-                "icon": "heart",
-                "highlighted": false
-            },
-            {
-                "year": "2022",
-                "title": "Un terrain offert Fi Sabil'Allah",
-                "description": "Trois fidèles et leurs épouses font don de 1 000 m² de terrain à l'Impasse de la Paille. Un notaire acte la donation. La mairie vend ensuite 395 m² supplémentaires, portant la parcelle à sa taille définitive.",
-                "image": {
-                    "src": "/images/terrain.png",
-                    "alt": "Terrain offert pour la future mosquée Al Wifaq"
-                },
-                "icon": "star",
-                "highlighted": true
-            },
-            {
-                "year": "2023",
-                "title": "Validation architecturale",
-                "description": "Le projet passe deux fois devant le Conseil Architectural. Le 2ème passage est validé sans réserve, avec l'ajout de salles de classes et 400 m² supplémentaires. Surface totale : 1 410 m² sur 3 niveaux.",
-                "image": {
-                    "src": "/images/plan-archi.png",
-                    "alt": "Plan architectural de la future mosquée — vue en coupe"
-                },
-                "icon": "award",
-                "highlighted": false
-            },
-            {
-                "year": "2024",
-                "title": "Phase 1 terminée — Terrassement",
-                "description": "400 000 € collectés et 3 000 m³ de terre excavée. Le mur de soutènement de 130 m linéaires et jusqu'à 5 m de haut est achevé. 150 000 € d'économies réinvestis en Phase 2 grâce au travail bénévole.",
-                "image": {
-                    "src": "/images/chantier-mur.png",
-                    "alt": "Mur de soutènement achevé — Phase 1 du chantier"
-                },
-                "icon": "building",
-                "highlighted": true
-            },
-            {
-                "year": "2025",
-                "title": "Structure temporaire et lancement Phase 2",
-                "description": "Une structure démontable est installée au Square Auguste Renoir pour 2 ans, le temps de terminer le chantier. La Phase 2 — gros œuvre, étanchéité, menuiseries et façade — démarre avec un objectif de 1 230 000 €.",
-                "image": {
-                    "src": "/images/temporary-structure.png",
-                    "alt": "Structure temporaire démontable au Square Auguste Renoir"
-                },
-                "icon": "wrench",
-                "highlighted": false
-            },
-            {
-                "year": "2027",
-                "title": "Objectif : le clos-couvert achevé",
-                "description": "InchaAllah, le bâtiment sortira de terre et sera fini vu de l'extérieur. L'extérieur terminé, le chantier intérieur pourra commencer pour accueillir les fidèles et les élèves dans leur nouvelle mosquée.",
-                "image": {
-                    "src": "/images/mosque-phase2.png",
-                    "alt": "Rendu 3D de la mosquée — objectif Phase 2 clos-couvert"
-                },
-                "icon": "rocket",
-                "highlighted": true
-            }
-        ]
-    }
+  "meta": {
+    "component": "blocks/content/process/Timeline001",
+    "section": "mosque/timeline"
+  },
+  "data": {
+    "badge": "Notre Parcours",
+    "title": "40 ans d'histoire, une mosquée en construction",
+    "subtitle": "De l'union de deux mosquées à la construction d'un lieu de culte digne de notre communauté, retour sur les étapes clés du projet Al Wifaq.",
+    "items": [
+      {
+        "year": "~1980",
+        "title": "Naissance d'Al Wifaq",
+        "description": "L'union de deux mosquées historiquement présentes dans le quartier Montchovet donne naissance à Al Wifaq. La communauté grandit malgré 6 déménagements forcés — gymnase, église, locaux provisoires.",
+        "image": {
+          "src": "/images/logo-al-wifaq.png",
+          "alt": "Bâtiment historique de la mosquée Al Wifaq à Montchovet"
+        },
+        "icon": "heart",
+        "highlighted": false
+      },
+      {
+        "year": "2022",
+        "title": "Un terrain offert Fi Sabil'Allah",
+        "description": "Trois fidèles et leurs épouses font don de 1 000 m² de terrain à l'Impasse de la Paille. Un notaire acte la donation. La mairie vend ensuite 395 m² supplémentaires, portant la parcelle à sa taille définitive.",
+        "image": {
+          "src": "/images/terrain.png",
+          "alt": "Terrain offert pour la future mosquée Al Wifaq"
+        },
+        "icon": "star",
+        "highlighted": true
+      },
+      {
+        "year": "2023",
+        "title": "Validation architecturale",
+        "description": "Le projet passe deux fois devant le Conseil Architectural. Le 2ème passage est validé sans réserve, avec l'ajout de salles de classes et 400 m² supplémentaires. Surface totale : 1 410 m² sur 3 niveaux.",
+        "image": {
+          "src": "/images/mosque-render-3d.jpg",
+          "alt": "Plan architectural de la future mosquée — vue en coupe"
+        },
+        "icon": "award",
+        "highlighted": false
+      },
+      {
+        "year": "2024",
+        "title": "Phase 1 terminée — Terrassement",
+        "description": "400 000 € collectés et 3 000 m³ de terre excavée. Le mur de soutènement de 130 m linéaires et jusqu'à 5 m de haut est achevé. 150 000 € d'économies réinvestis en Phase 2 grâce au travail bénévole.",
+        "image": {
+          "src": "/images/chantier-mur.png",
+          "alt": "Mur de soutènement achevé — Phase 1 du chantier"
+        },
+        "icon": "building",
+        "highlighted": true
+      },
+      {
+        "year": "2025",
+        "title": "Structure temporaire et lancement Phase 2",
+        "description": "Une structure démontable est installée au Square Auguste Renoir pour 2 ans, le temps de terminer le chantier. La Phase 2 — gros œuvre, étanchéité, menuiseries et façade — démarre avec un objectif de 1 230 000 €.",
+        "image": {
+          "src": "/images/IMG.png",
+          "alt": "Structure temporaire démontable au Square Auguste Renoir"
+        },
+        "icon": "wrench",
+        "highlighted": false
+      },
+      {
+        "year": "2027",
+        "title": "Objectif : le clos-couvert achevé",
+        "description": "InchaAllah, le bâtiment sortira de terre et sera fini vu de l'extérieur. L'extérieur terminé, le chantier intérieur pourra commencer pour accueillir les fidèles et les élèves dans leur nouvelle mosquée.",
+        "image": {
+          "src": "/images/image28.png",
+          "alt": "Rendu 3D de la mosquée — objectif Phase 2 clos-couvert"
+        },
+        "icon": "rocket",
+        "highlighted": true
+      }
+    ]
+  }
 }

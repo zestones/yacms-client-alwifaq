@@ -17,7 +17,7 @@
       "imageAlt": "Mosquée Al Wifaq — Saint-Étienne"
     }
   },
-  "theme": "elegant",
+  "theme": "elegant-light",
   "blocks": [
     "./navigation002.json",
     "./hero.json",
