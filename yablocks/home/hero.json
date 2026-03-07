@@ -28,9 +28,18 @@
             "100% financé par les fidèles"
         ],
         "stats": [
-            { "value": "40+", "label": "Années d'histoire" },
-            { "value": "1 410 m²", "label": "Surface totale" },
-            { "value": "Phase 2", "label": "En cours" }
+            {
+                "value": "40+",
+                "label": "Années d'histoire"
+            },
+            {
+                "value": "1 410 m²",
+                "label": "Surface totale"
+            },
+            {
+                "value": "Phase 2",
+                "label": "En cours"
+            }
         ]
     }
 }
