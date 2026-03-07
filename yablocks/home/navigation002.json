@@ -11,12 +11,12 @@
     },
     "links": [
       {
-        "label": "Le Projet",
-        "href": "#section-about"
-      },
-      {
         "label": "Horaires",
         "href": "#section-prayer"
+      },
+      {
+        "label": "Le Projet",
+        "href": "#section-about"
       },
       {
         "label": "Historique",
