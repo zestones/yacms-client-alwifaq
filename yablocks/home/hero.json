@@ -1,16 +1,15 @@
 {
     "meta": {
-        "component": "blocks/layout/hero/Hero003",
+        "component": "blocks/layout/hero/Hero009",
         "section": "mosque/hero"
     },
     "data": {
-        "label": "Al Wifaq — L'union, l'entente",
-        "title": "Construisons ensemble la future mosquée de Saint-Étienne",
-        "subtitle": "Née de l'union de deux mosquées, Al Wifaq rassemble depuis plus de 40 ans les musulmans du quartier Montchovet. Aujourd'hui, nous bâtissons un lieu de culte, d'éducation et de fraternité pour les générations futures.",
         "backgroundImage": {
             "src": "/images/mosque-render-3d.jpg",
             "alt": "Rendu 3D de la future mosquée Al Wifaq à Saint-Étienne"
         },
+        "title": "Construisons ensemble la future mosquée de Saint-Étienne",
+        "subtitle": "Née de l'union de deux mosquées, Al Wifaq rassemble depuis plus de 40 ans les musulmans du quartier Montchovet. Aujourd'hui, nous bâtissons un lieu de culte, d'éducation et de fraternité pour les générations futures.",
         "cta": {
             "primary": {
                 "text": "Contribuer au projet",
@@ -21,25 +20,14 @@
                 "link": "#section-timeline"
             }
         },
-        "features": [
-            "1 410 m² sur 3 niveaux",
-            "190 élèves — 12 classes",
-            "Projet validé sans réserve",
-            "100% financé par les fidèles"
-        ],
-        "stats": [
-            {
-                "value": "40+",
-                "label": "Années d'histoire"
-            },
-            {
-                "value": "1 410 m²",
-                "label": "Surface totale"
-            },
-            {
-                "value": "Phase 2",
-                "label": "En cours"
+        "card": {
+            "badge": "Phase 2 — En cours",
+            "stat": "1 410",
+            "statDescription": "m² sur 3 niveaux pour accueillir prière, éducation et vie communautaire.",
+            "image": {
+                "src": "/images/plan-archi.png",
+                "alt": "Plan architectural de la future mosquée Al Wifaq"
             }
-        ]
+        }
     }
 }

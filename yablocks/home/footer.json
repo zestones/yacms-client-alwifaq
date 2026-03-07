@@ -18,15 +18,15 @@
         "links": [
           {
             "text": "Notre mission",
-            "href": "#section-features"
+            "href": "#section-about"
           },
           {
-            "text": "Avancement",
-            "href": "#section-portfolio"
+            "text": "Historique",
+            "href": "#section-timeline"
           },
           {
-            "text": "L'Équipe",
-            "href": "#section-team"
+            "text": "Actualités",
+            "href": "#section-actualites"
           }
         ]
       },
@@ -36,6 +36,10 @@
           {
             "text": "Faire un don",
             "href": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+          },
+          {
+            "text": "Horaires des prières",
+            "href": "#section-prayer"
           },
           {
             "text": "Contact",

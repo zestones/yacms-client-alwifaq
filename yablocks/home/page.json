@@ -21,11 +21,11 @@
   "blocks": [
     "./navigation002.json",
     "./hero.json",
+    "./prayer-times.json",
     "./stats.json",
     "./features.json",
     "./timeline.json",
     "./portfolio.json",
-    "./team.json",
     "./testimonial.json",
     "./contact.json",
     "./footer.json"
