@@ -1,63 +1,64 @@
 {
-  "meta": {
-    "component": "blocks/content/prayer/PrayerTimes",
-    "section": "mosque/prayer"
-  },
-  "data": {
-    "title": "Horaires des prières",
-    "subtitle": "Mosquée Al Wifaq — Saint-Étienne",
-    "dateHijri": "18 Ramadān 1447",
-    "dateGregorian": "7/03/2026",
-    "prayers": [
-      {
-        "name": "Fajr",
-        "nameAr": "الفجر",
-        "time": "06:15",
-        "iqama": "+15'"
-      },
-      {
-        "name": "Doha",
-        "nameAr": "الضحى",
-        "time": "07:24"
-      },
-      {
-        "name": "Dhuhr",
-        "nameAr": "الظهر",
-        "time": "13:15",
-        "iqama": "+15'"
-      },
-      {
-        "name": "Asr",
-        "nameAr": "العصر",
-        "time": "16:30",
-        "iqama": "+15'"
-      },
-      {
-        "name": "Maghrib",
-        "nameAr": "المغرب",
-        "time": "19:05",
-        "iqama": "+10'"
-      },
-      {
-        "name": "Isha",
-        "nameAr": "العشاء",
-        "time": "20:30",
-        "iqama": "+15'"
-      }
-    ],
-    "sideInfo": [
-      {
-        "label": "Jomoa",
-        "value": "13:30"
-      },
-      {
-        "label": "Chourouk",
-        "value": "07:09"
-      },
-      {
-        "label": "Doha",
-        "value": "07:24"
-      }
-    ]
-  }
+    "meta": {
+        "component": "blocks/content/prayer/PrayerTimes",
+        "section": "mosque/prayer"
+    },
+    "data": {
+        "title": "Horaires des prières",
+        "subtitle": "Mosquée Al Wifaq — Saint-Étienne",
+        "dateHijri": "18 Ramadān 1447",
+        "dateGregorian": "7/03/2026",
+        "prayers": [
+            {
+                "name": "Fajr",
+                "nameAr": "الفجر",
+                "time": "06:15",
+                "iqama": "+15'"
+            },
+            {
+                "name": "Doha",
+                "nameAr": "الضحى",
+                "time": "07:24"
+            },
+            {
+                "name": "Dhuhr",
+                "nameAr": "الظهر",
+                "time": "13:15",
+                "iqama": "+15'"
+            },
+            {
+                "name": "Asr",
+                "nameAr": "العصر",
+                "time": "16:30",
+                "iqama": "+15'"
+            },
+            {
+                "name": "Maghrib",
+                "nameAr": "المغرب",
+                "time": "19:05",
+                "iqama": "+10'"
+            },
+            {
+                "name": "Isha",
+                "nameAr": "العشاء",
+                "time": "20:30",
+                "iqama": "+15'"
+            }
+        ],
+        "sideInfo": [
+            {
+                "label": "Jomoa",
+                "value": "13:30"
+            },
+            {
+                "label": "Chourouk",
+                "value": "07:09"
+            },
+            {
+                "label": "Doha",
+                "value": "07:24"
+            }
+        ],
+        "prayerTimesCSV": "/assets/prayer-times.csv"
+    }
 }
