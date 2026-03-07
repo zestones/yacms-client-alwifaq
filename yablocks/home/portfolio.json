@@ -1,94 +1,94 @@
 {
-    "meta": {
-        "component": "blocks/social-proof/portfolio/PortfolioGrid002",
-        "section": "mosque/actualites"
-    },
-    "data": {
-        "title": "Actualités & Événements",
-        "categories": [
-            "Tous",
-            "Événements",
-            "Chantier",
-            "Communauté"
-        ],
-        "projects": [
-            {
-                "title": "Soirée de collecte — Phase 2",
-                "description": "Grande soirée de collecte pour financer le gros œuvre de la mosquée. Objectif : réunir 500 000 € pour lancer la construction des 3 niveaux.",
-                "image": {
-                    "src": "/images/mosque-phase2.png",
-                    "alt": "Flyer soirée de collecte Phase 2"
-                },
-                "category": "Événements",
-                "date": "2025-09-20",
-                "stat": {
-                    "icon": "zap",
-                    "value": "500 000 €"
-                }
-            },
-            {
-                "title": "Collecte Ramadan",
-                "description": "Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah. Reçu fiscal déductible des impôts.",
-                "image": {
-                    "src": "/images/mosque-render-3d.jpg",
-                    "alt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
-                },
-                "category": "Événements",
-                "date": "2025-03-01",
-                "stat": {
-                    "icon": "flame",
-                    "value": "Sadaqah Jariyah"
-                }
-            },
-            {
-                "title": "Phase 1 terminée — Terrassement achevé",
-                "description": "400 000 € collectés, 3 000 m³ de terre excavée et 130 m de mur de soutènement construits. 150 000 € d'économies réinvesties en Phase 2.",
-                "image": {
-                    "src": "/images/chantier-mur.png",
-                    "alt": "Mur de soutènement achevé — Phase 1"
-                },
-                "category": "Chantier",
-                "date": "2024-11-15",
-                "stat": {
-                    "icon": "zap",
-                    "value": "400 000 €"
-                }
-            },
-            {
-                "title": "Excavation du terrain",
-                "description": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah. Seuls la location des machines et le gasoil ont été facturés.",
-                "image": {
-                    "src": "/images/chantier-excavation.png",
-                    "alt": "Chantier d'excavation du terrain"
-                },
-                "category": "Chantier",
-                "date": "2024-06-10"
-            },
-            {
-                "title": "Vente de gâteaux — Les sœurs mobilisées",
-                "description": "Les sœurs de la communauté organisent régulièrement des ventes de gâteaux pour contribuer au financement de la mosquée.",
-                "image": {
-                    "src": "/images/education.jpg",
-                    "alt": "Événement communautaire Al Wifaq"
-                },
-                "category": "Communauté",
-                "date": "2024-12-05"
-            },
-            {
-                "title": "Structure temporaire installée",
-                "description": "Une structure démontable au Square Auguste Renoir accueille les fidèles pendant 2 ans, le temps que le chantier extérieur soit terminé.",
-                "image": {
-                    "src": "/images/temporary-structure.png",
-                    "alt": "Structure temporaire démontable"
-                },
-                "category": "Chantier",
-                "date": "2024-04-01"
-            }
-        ],
-        "cta": {
-            "text": "Contribuer au projet",
-            "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
-            "icon": "arrow-right"
+  "meta": {
+    "component": "blocks/social-proof/portfolio/PortfolioGrid002",
+    "section": "mosque/actualites"
+  },
+  "data": {
+    "title": "Actualités & Événements",
+    "categories": [
+      "Tous",
+      "Événements",
+      "Chantier",
+      "Communauté"
+    ],
+    "projects": [
+      {
+        "title": "Soirée de collecte — Phase 2",
+        "description": "Grande soirée de collecte pour financer le gros œuvre de la mosquée. Objectif : réunir 500 000 € pour lancer la construction des 3 niveaux.",
+        "image": {
+          "src": "/images/mosque-phase2.png",
+          "alt": "Flyer soirée de collecte Phase 2"
+        },
+        "category": "Événements",
+        "date": "2025-09-20",
+        "stat": {
+          "icon": "zap",
+          "value": "500 000 €"
         }
+      },
+      {
+        "title": "Collecte Ramadan",
+        "description": "Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah. Reçu fiscal déductible des impôts.",
+        "image": {
+          "src": "/images/mosque-render-3d.jpg",
+          "alt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
+        },
+        "category": "Événements",
+        "date": "2025-03-01",
+        "stat": {
+          "icon": "flame",
+          "value": "Sadaqah Jariyah"
+        }
+      },
+      {
+        "title": "Phase 1 terminée — Terrassement achevé",
+        "description": "400 000 € collectés, 3 000 m³ de terre excavée et 130 m de mur de soutènement construits. 150 000 € d'économies réinvesties en Phase 2.",
+        "image": {
+          "src": "/images/chantier-mur.png",
+          "alt": "Mur de soutènement achevé — Phase 1"
+        },
+        "category": "Chantier",
+        "date": "2024-11-15",
+        "stat": {
+          "icon": "zap",
+          "value": "400 000 €"
+        }
+      },
+      {
+        "title": "Excavation du terrain",
+        "description": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah. Seuls la location des machines et le gasoil ont été facturés.",
+        "image": {
+          "src": "/images/chantier-excavation.png",
+          "alt": "Chantier d'excavation du terrain"
+        },
+        "category": "Chantier",
+        "date": "2024-06-10"
+      },
+      {
+        "title": "Vente de gâteaux — Les sœurs mobilisées",
+        "description": "Les sœurs de la communauté organisent régulièrement des ventes de gâteaux pour contribuer au financement de la mosquée.",
+        "image": {
+          "src": "/images/education.jpg",
+          "alt": "Événement communautaire Al Wifaq"
+        },
+        "category": "Communauté",
+        "date": "2024-12-05"
+      },
+      {
+        "title": "Structure temporaire installée",
+        "description": "Une structure démontable au Square Auguste Renoir accueille les fidèles pendant 2 ans, le temps que le chantier extérieur soit terminé.",
+        "image": {
+          "src": "/images/IMG.png",
+          "alt": "Structure temporaire démontable"
+        },
+        "category": "Chantier",
+        "date": "2024-04-01"
+      }
+    ],
+    "cta": {
+      "text": "Contribuer au projet",
+      "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
+      "icon": "arrow-right"
     }
+  }
 }
