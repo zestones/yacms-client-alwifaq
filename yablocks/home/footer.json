@@ -6,7 +6,8 @@
   "data": {
     "brand": {
       "alt": "Mosquée Al Wifaq",
-      "tagline": "Al Wifaq signifie l'union, l'entente. Mosquée indépendante née de l'union de deux mosquées historiques du quartier Montchovet à Saint-Étienne. Ensemble, bâtissons un lieu de culte, d'éducation et de fraternité."
+      "tagline": "Al Wifaq signifie l'union, l'entente. Mosquée indépendante née de l'union de deux mosquées historiques du quartier Montchovet à Saint-Étienne. Ensemble, bâtissons un lieu de culte, d'éducation et de fraternité.",
+      "logo": "/logos/logo-2.png"
     },
     "contact": {
       "address": "Square Auguste Renoir, 42100 Saint-Étienne"
