@@ -20,6 +20,7 @@
                     "alt": "Flyer soirée de collecte Phase 2"
                 },
                 "category": "Événements",
+                "date": "2025-09-20",
                 "stat": {
                     "icon": "zap",
                     "value": "500 000 €"
@@ -33,6 +34,7 @@
                     "alt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
                 },
                 "category": "Événements",
+                "date": "2025-03-01",
                 "stat": {
                     "icon": "flame",
                     "value": "Sadaqah Jariyah"
@@ -46,6 +48,7 @@
                     "alt": "Mur de soutènement achevé — Phase 1"
                 },
                 "category": "Chantier",
+                "date": "2024-11-15",
                 "stat": {
                     "icon": "zap",
                     "value": "400 000 €"
@@ -58,7 +61,8 @@
                     "src": "/images/chantier-excavation.png",
                     "alt": "Chantier d'excavation du terrain"
                 },
-                "category": "Chantier"
+                "category": "Chantier",
+                "date": "2024-06-10"
             },
             {
                 "title": "Vente de gâteaux — Les sœurs mobilisées",
@@ -67,7 +71,8 @@
                     "src": "/images/education.jpg",
                     "alt": "Événement communautaire Al Wifaq"
                 },
-                "category": "Communauté"
+                "category": "Communauté",
+                "date": "2024-12-05"
             },
             {
                 "title": "Structure temporaire installée",
@@ -76,12 +81,14 @@
                     "src": "/images/temporary-structure.png",
                     "alt": "Structure temporaire démontable"
                 },
-                "category": "Chantier"
+                "category": "Chantier",
+                "date": "2024-04-01"
             }
         ],
         "cta": {
             "text": "Contribuer au projet",
-            "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+            "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
+            "icon": "arrow-right"
         }
     }
 }
