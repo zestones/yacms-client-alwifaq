@@ -27,20 +27,6 @@
         }
       },
       {
-        "title": "Collecte Ramadan",
-        "description": "Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah. Reçu fiscal déductible des impôts.",
-        "image": {
-          "src": "/images/mosque-render-3d.jpg",
-          "alt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
-        },
-        "category": "Événements",
-        "date": "2025-03-01",
-        "stat": {
-          "icon": "flame",
-          "value": "Sadaqah Jariyah"
-        }
-      },
-      {
         "title": "Phase 1 terminée — Terrassement achevé",
         "description": "400 000 € collectés, 3 000 m³ de terre excavée et 130 m de mur de soutènement construits. 150 000 € d'économies réinvesties en Phase 2.",
         "image": {
@@ -52,6 +38,20 @@
         "stat": {
           "icon": "zap",
           "value": "400 000 €"
+        }
+      },
+      {
+        "title": "Collecte Ramadan",
+        "description": "Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah. Reçu fiscal déductible des impôts.",
+        "image": {
+          "src": "/images/mosque-render-3d.jpg",
+          "alt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
+        },
+        "category": "Événements",
+        "date": "2025-03-01",
+        "stat": {
+          "icon": "flame",
+          "value": "Sadaqah Jariyah"
         }
       },
       {
