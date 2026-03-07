@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "mosque/stats"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "40",
+                "label": "Ans d'existence",
+                "suffix": "+"
+            },
+            {
+                "value": "190",
+                "label": "Élèves à l'école",
+                "suffix": null
+            },
+            {
+                "value": "1410",
+                "label": "m² de terrain",
+                "suffix": null
+            },
+            {
+                "value": "3",
+                "label": "Niveaux de bâtiment",
+                "suffix": null
+            }
+        ]
+    }
+}

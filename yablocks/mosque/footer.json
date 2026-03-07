@@ -1,0 +1,83 @@
+{
+    "meta": {
+        "component": "blocks/layout/footer/FooterColumns",
+        "section": "mosque/footer"
+    },
+    "data": {
+        "brand": {
+            "alt": "Mosquée Al Wifaq",
+            "tagline": "Al Wifaq signifie l'union, l'entente. Mosquée indépendante née de l'union de deux mosquées historiques du quartier Montchovet à Saint-Étienne. Ensemble, bâtissons un lieu de culte, d'éducation et de fraternité."
+        },
+        "contact": {
+            "phone": "",
+            "email": "",
+            "address": "Square Auguste Renoir, 42100 Saint-Étienne",
+            "hours": ""
+        },
+        "socialLinks": [
+            {
+                "platform": "facebook",
+                "href": "#"
+            }
+        ],
+        "linkGroups": [
+            {
+                "title": "Le Projet",
+                "links": [
+                    {
+                        "text": "Notre mission",
+                        "href": "#section-features"
+                    },
+                    {
+                        "text": "Avancement",
+                        "href": "#section-portfolio"
+                    },
+                    {
+                        "text": "L'Équipe",
+                        "href": "#section-team"
+                    }
+                ]
+            },
+            {
+                "title": "Contribuer",
+                "links": [
+                    {
+                        "text": "Faire un don",
+                        "href": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+                    },
+                    {
+                        "text": "Contact",
+                        "href": "#section-contact"
+                    }
+                ]
+            },
+            {
+                "title": "Informations",
+                "links": [
+                    {
+                        "text": "Loi 1905 — RNA : W423014492",
+                        "href": "#"
+                    },
+                    {
+                        "text": "Reçu fiscal disponible sur HelloAsso",
+                        "href": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+                    }
+                ]
+            }
+        ],
+        "legal": {
+            "copyright": "Association Cultuelle de Montchovet et de Saint-Étienne — Tous droits réservés.",
+            "links": [
+                {
+                    "text": "Mentions légales",
+                    "href": "/mentions-legales"
+                },
+                {
+                    "text": "Politique de confidentialité",
+                    "href": "/confidentialite"
+                }
+            ]
+        },
+        "certifications": []
+    }
+}

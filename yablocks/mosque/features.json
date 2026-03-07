@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "component": "blocks/content/features/ContentBlock001",
+        "section": "mosque/about"
+    },
+    "data": {
+        "eyebrow": "Le Projet",
+        "title": "Un lieu de culte, d'éducation et de fraternité",
+        "lead": "Le projet Al Wifaq prévoit un bâtiment de 1 410 m² sur trois niveaux, validé sans réserve par le Conseil Architectural de Saint-Étienne. Il accueillera la prière, 12 classes pour 190 élèves, et des espaces communautaires ouverts à tous.",
+        "paragraphs": [
+            "Trois fidèles et leurs épouses ont fait don de 1 000 m² de terrain Fi Sabil'Allah, à l'Impasse de la Paille. La mairie a complété l'assiette foncière en vendant 395 m² supplémentaires, permettant de porter le projet à sa pleine envergure.",
+            "L'école Al Wifaq dispense un enseignement religieux et linguistique de la maternelle au niveau 4, encadrée par 7 professeurs. La nouvelle mosquée offrira à ces 190 élèves et à la communauté des conditions dignes de cette mission éducative."
+        ],
+        "image": {
+            "src": "/images/plan-archi.png",
+            "alt": "Plan architectural de la future mosquée Al Wifaq — 1410 m² sur 3 niveaux"
+        },
+        "cta": {
+            "text": "Contribuer au projet",
+            "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+        },
+        "layout": "imageRight"
+    }
+}
