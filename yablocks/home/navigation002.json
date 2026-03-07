@@ -29,6 +29,10 @@
       {
         "label": "Contact",
         "href": "#section-contact"
+      },
+      {
+        "label": "Cagnotte Ramadan",
+        "href": "/ramadan"
       }
     ],
     "cta": {
