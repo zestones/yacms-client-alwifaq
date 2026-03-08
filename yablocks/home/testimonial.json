@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial001",
+        "section": "alwifaq/testimonial"
+    },
+    "data": {
+        "quote": "Ceux qui dépensent de leurs biens, de nuit comme de jour, en secret et en public, auront leur récompense auprès de leur Seigneur. Nulle crainte pour eux, et ils ne seront point affligés.",
+        "author": {
+            "name": "Le Saint Coran",
+            "role": "Sourate Al-Baqara, v. 274",
+            "avatar": {
+                "src": "/images/logo-al-wifaq.png",
+                "alt": "Coran"
+            }
+        }
+    }
+}

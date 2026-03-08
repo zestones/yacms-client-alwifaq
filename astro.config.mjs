@@ -10,11 +10,15 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 export default defineConfig({
     site: 'https://alwifaq.fr',
     integrations: [react(), sitemap()],
+    build: {
+        inlineStylesheets: 'always'
+    },
     vite: {
         plugins: [tailwindcss()],
         resolve: {
             alias: {
                 '@': path.resolve(__dirname, './src'),
+                'zod-to-json-schema': path.resolve(__dirname, './src/stubs/zod-to-json-schema.ts'),
             },
         },
         css: {

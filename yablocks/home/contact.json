@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "component": "blocks/content/contact/Contact01",
+    "section": "alwifaq/contact"
+  },
+  "data": {
+    "formTitle": "Nous contacter",
+    "formLabels": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "privacyPrefix": "En soumettant ce formulaire, vous acceptez notre",
+      "privacyLink": "politique de confidentialité",
+      "privacyHref": "/confidentialite",
+      "submit": "Envoyer"
+    },
+    "formPlaceholders": {
+      "firstName": "Votre prénom",
+      "lastName": "Votre nom",
+      "email": "votre@email.com",
+      "message": "Votre message..."
+    },
+    "infoTitle": "Mosquée Al Wifaq",
+    "infoDescription": "Association Cultuelle de Montchovet et de Saint-Étienne. Financée exclusivement par les dons des fidèles, tous nos membres œuvrent bénévolement Fi Sabil'Allah.",
+    "contactOptions": [
+      {
+        "icon": "phone",
+        "info": "06 34 20 03 10",
+        "href": "tel:+33634200310"
+      },
+      {
+        "icon": "mail",
+        "info": "associationdemontchovet@gmail.com",
+        "href": "mailto:associationdemontchovet@gmail.com"
+      },
+      {
+        "icon": "mapPin",
+        "info": "Square Auguste Renoir, 42100 Saint-Étienne",
+        "href": "https://maps.google.com/?q=Square+Auguste+Renoir+42100+Saint-Etienne"
+      },
+      {
+        "icon": "heart",
+        "info": "Faire un don sur HelloAsso",
+        "href": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+      }
+    ]
+  }
+}

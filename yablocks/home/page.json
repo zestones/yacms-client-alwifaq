@@ -1,16 +1,80 @@
 {
   "meta": {
-    "title": "Al-Wifaq | Ramadan 2026",
-    "description": "",
-    "keywords": [],
+    "title": "Mosquée Al Wifaq — Bâtissons ensemble la mosquée Al Wifaq à Saint-Étienne (42)",
+    "description": "Mosquée Al Wifaq à Saint-Étienne (42) : projet communautaire de construction d'un lieu de culte de 1 410 m² à Montchovet. Horaires de prières, avancement du chantier, école islamique et don en ligne. Sadaqah jariyah.",
+    "keywords": [
+      "alwifaq",
+      "al wifaq",
+      "mosquée Al Wifaq",
+      "mosquée Saint-Étienne",
+      "mosquée Al Wifaq Saint-Étienne",
+      "construction mosquée Loire 42",
+      "don mosquée Saint-Étienne",
+      "sadaqah jariyah",
+      "horaires prières Saint-Étienne",
+      "mosquée Montchovet",
+      "association cultuelle Saint-Étienne",
+      "faire un don mosquée",
+      "projet mosquée Loire",
+      "prière Saint-Étienne",
+      "alwifaq.fr"
+    ],
+    "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+    "canonical": "https://alwifaq.fr/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
     "og": {
       "type": "website",
-      "image": "/logos/og-home.png",
-      "imageAlt": "Al-Wifaq logo"
+      "image": "/og-home.png",
+      "imageAlt": "Mosquée Al Wifaq — Bâtissons la mosquée Al Wifaq au sud-est de Saint-Étienne"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "Mosquée Al Wifaq",
+      "logo": "/logo.png",
+      "address": {
+        "street": "Square Auguste Renoir",
+        "city": "Saint-Étienne",
+        "postalCode": "42100",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 45.4189,
+        "longitude": 4.3723
+      },
+      "email": "associationdemontchovet@gmail.com",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "05:00",
+          "closes": "22:00"
+        }
+      ],
+      "serviceArea": {
+        "radius": 15000
+      }
     }
   },
-  "theme": "elegant",
+  "theme": "elegant-light",
   "blocks": [
-    "./ramadan-cagnotte.json"
+    "./navigation002.json",
+    "./hero.json",
+    "./prayer-times.json",
+    "./features.json",
+    "./stats.json",
+    "./timeline.json",
+    "./portfolio.json",
+    "./testimonial.json",
+    "./contact.json",
+    "./footer.json"
   ]
 }

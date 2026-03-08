@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Cagnotte Ramadan 2026 — Mosquée Al Wifaq Saint-Étienne (42)",
+    "description": "Contribuez à la construction de la mosquée Al Wifaq pendant le Ramadan 2026. Chaque don est une sadaqah jariyah. Objectif Phase 2 : le clos-couvert. Reçu fiscal disponible.",
+    "keywords": [
+      "alwifaq",
+      "al wifaq",
+      "cagnotte ramadan 2026",
+      "don ramadan mosquée",
+      "sadaqah jariyah ramadan",
+      "mosquée Al Wifaq don",
+      "ramadan Saint-Étienne",
+      "collecte mosquée Loire 42",
+      "construction mosquée ramadan",
+      "don en ligne mosquée",
+      "mosquée Al Wifaq Saint-Étienne",
+      "reçu fiscal don mosquée"
+    ],
+    "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+    "canonical": "https://alwifaq.fr/ramadan",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "Cagnotte Ramadan 2026 — Mosquée Al Wifaq Saint-Étienne"
+    }
+  },
+  "theme": "elegant",
+  "blocks": [
+    "./ramadan-cagnotte.json"
+  ]
+}

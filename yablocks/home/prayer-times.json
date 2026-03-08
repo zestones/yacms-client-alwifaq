@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "component": "blocks/content/prayer/PrayerTimes",
+    "section": "alwifaq/prayer"
+  },
+  "data": {
+    "title": "Horaires des prières",
+    "subtitle": "Mosquée Al Wifaq — Saint-Étienne",
+    "dateHijri": "18 Ramadān 1447",
+    "dateGregorian": "7/03/2026",
+    "prayers": [
+      {
+        "name": "Fajr",
+        "nameAr": "الفجر",
+        "time": "",
+        "iqama": "+10'"
+      },
+      {
+        "name": "Chourouk",
+        "nameAr": "الشروق",
+        "time": "07:09"
+      },
+      {
+        "name": "Duhr",
+        "nameAr": "الظهر",
+        "time": "13:15",
+        "iqama": "+10'"
+      },
+      {
+        "name": "Asr",
+        "nameAr": "العصر",
+        "time": "16:30",
+        "iqama": "+10'"
+      },
+      {
+        "name": "Maghrib",
+        "nameAr": "المغرب",
+        "time": "19:05",
+        "iqama": "+0'"
+      },
+      {
+        "name": "Isha",
+        "nameAr": "العشاء",
+        "time": "20:30",
+        "iqama": "+0'"
+      }
+    ],
+    "sideInfo": [
+      {
+        "label": "Chourouk",
+        "value": "07:09"
+      },
+      {
+        "label": "Jumu'a",
+        "value": "12:30"
+      },
+      {
+        "label": "Jumu'a",
+        "value": "13:30"
+      }
+    ],
+    "prayerTimesCSV": "/assets/prayer-times.csv"
+  }
+}

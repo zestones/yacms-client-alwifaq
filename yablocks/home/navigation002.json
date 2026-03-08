@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/Navigation002",
+    "section": "alwifaq/navigation002"
+  },
+  "data": {
+    "logo": {
+      "image": "/logos/logo-2.png",
+      "text": "Al Wifaq",
+      "href": "/"
+    },
+    "links": [
+      {
+        "label": "Horaires",
+        "href": "#section-prayer"
+      },
+      {
+        "label": "Le Projet",
+        "href": "#section-about"
+      },
+      {
+        "label": "Historique",
+        "href": "#section-timeline"
+      },
+      {
+        "label": "Actualités",
+        "href": "#section-actualites"
+      },
+      {
+        "label": "Contact",
+        "href": "#section-contact"
+      },
+      {
+        "label": "Cagnotte Ramadan",
+        "href": "/ramadan"
+      }
+    ],
+    "cta": {
+      "text": "Faire un don",
+      "href": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+    }
+  }
+}
