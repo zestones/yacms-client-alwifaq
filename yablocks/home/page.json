@@ -1,10 +1,13 @@
 {
   "meta": {
-    "title": "Mosquée Al Wifaq — Construisons ensemble la mosquée de Saint-Étienne (42)",
+    "title": "Mosquée Al Wifaq — Bâtissons ensemble la mosquée Al Wifaq à Saint-Étienne (42)",
     "description": "Mosquée Al Wifaq à Saint-Étienne (42) : projet communautaire de construction d'un lieu de culte de 1 410 m² à Montchovet. Horaires de prières, avancement du chantier, école islamique et don en ligne. Sadaqah jariyah.",
     "keywords": [
-      "mosquée Saint-Étienne",
+      "alwifaq",
+      "al wifaq",
       "mosquée Al Wifaq",
+      "mosquée Saint-Étienne",
+      "mosquée Al Wifaq Saint-Étienne",
       "construction mosquée Loire 42",
       "don mosquée Saint-Étienne",
       "sadaqah jariyah",
@@ -13,7 +16,8 @@
       "association cultuelle Saint-Étienne",
       "faire un don mosquée",
       "projet mosquée Loire",
-      "prière Saint-Étienne"
+      "prière Saint-Étienne",
+      "alwifaq.fr"
     ],
     "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
     "canonical": "https://alwifaq.fr/",
@@ -22,10 +26,10 @@
     "og": {
       "type": "website",
       "image": "/og-home.png",
-      "imageAlt": "Mosquée Al Wifaq — Construction de la mosquée de Saint-Étienne"
+      "imageAlt": "Mosquée Al Wifaq — Bâtissons la mosquée Al Wifaq au sud-est de Saint-Étienne"
     },
     "structuredData": {
-      "type": "Organization",
+      "type": "LocalBusiness",
       "name": "Mosquée Al Wifaq",
       "logo": "/logo.png",
       "address": {
@@ -40,6 +44,21 @@
         "longitude": 4.3723
       },
       "email": "associationdemontchovet@gmail.com",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "05:00",
+          "closes": "22:00"
+        }
+      ],
       "serviceArea": {
         "radius": 15000
       }

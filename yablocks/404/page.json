@@ -1,23 +1,22 @@
 {
   "meta": {
-    "title": "404 - Page Not Found | YourBrand",
-    "description": "The page you are looking for doesn't exist or has been moved. Return to homepage to explore our services.",
+    "title": "Page introuvable — Mosquée Al Wifaq Saint-Étienne",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée. Retournez à l'accueil pour découvrir le projet de la mosquée Al Wifaq à Saint-Étienne.",
     "keywords": [
       "404",
-      "page not found",
-      "error"
+      "page introuvable",
+      "mosquée Al Wifaq"
     ],
-    "author": "YourBrand",
-    "canonical": "https://yourbusiness.com/404",
-    "locale": "en_US",
+    "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+    "locale": "fr_FR",
     "robots": "noindex, follow",
     "og": {
       "type": "website",
-      "image": "/images/og-home.jpg",
-      "imageAlt": "YourBrand - Page Not Found"
+      "image": "/og-home.png",
+      "imageAlt": "Mosquée Al Wifaq — Page introuvable"
     }
   },
-  "theme": "template-default",
+  "theme": "elegant-light",
   "blocks": [
     "./not_found.json"
   ]
