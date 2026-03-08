@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/content/contact/Contact01",
-    "section": "mosque/contact"
+    "section": "alwifaq/contact"
   },
   "data": {
     "formTitle": "Nous contacter",

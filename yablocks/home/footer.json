@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/layout/footer/FooterColumns",
-    "section": "mosque/footer"
+    "section": "alwifaq/footer"
   },
   "data": {
     "brand": {

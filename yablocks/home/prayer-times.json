@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/content/prayer/PrayerTimes",
-    "section": "mosque/prayer"
+    "section": "alwifaq/prayer"
   },
   "data": {
     "title": "Horaires des prières",
