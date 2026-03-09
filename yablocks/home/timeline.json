@@ -65,14 +65,14 @@
       },
       {
         "year": "2026",
-        "title": "Déviation haute tension et décaissement massif",
+        "title": "Déviation haute tension et décaissement",
         "description": "Après plusieurs mois d'attente, Enedis procède au retrait de 2 câbles haute tension de 20 000 V traversant le terrain. Dernier contrôle validé sur site. En parallèle, 4 000 m³ de terre supplémentaires sont décaissés, portant le total à 7 000 m³ d'excavation.",
         "image": {
           "src": "/images/chantier-excavation.png",
           "alt": "Décaissement du terrain et retrait des câbles haute tension — chantier 2026"
         },
         "icon": "zap",
-        "highlighted": false
+        "highlighted": true
       },
       {
         "year": "2027",
@@ -83,7 +83,7 @@
           "alt": "Rendu 3D de la mosquée — objectif Phase 2 clos-couvert"
         },
         "icon": "rocket",
-        "highlighted": true
+        "highlighted": false
       }
     ]
   }
