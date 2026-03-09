@@ -64,6 +64,17 @@
         "highlighted": false
       },
       {
+        "year": "2026",
+        "title": "Déviation haute tension et décaissement massif",
+        "description": "Après plusieurs mois d'attente, Enedis procède au retrait de 2 câbles haute tension de 20 000 V traversant le terrain. Dernier contrôle validé sur site. En parallèle, 4 000 m³ de terre supplémentaires sont décaissés, portant le total à 7 000 m³ d'excavation.",
+        "image": {
+          "src": "/images/chantier-excavation.png",
+          "alt": "Décaissement du terrain et retrait des câbles haute tension — chantier 2026"
+        },
+        "icon": "zap",
+        "highlighted": false
+      },
+      {
         "year": "2027",
         "title": "Objectif : le clos-couvert achevé",
         "description": "InchaAllah, le bâtiment sortira de terre et sera fini vu de l'extérieur. L'extérieur terminé, le chantier intérieur pourra commencer pour accueillir les fidèles et les élèves dans leur nouvelle mosquée.",
