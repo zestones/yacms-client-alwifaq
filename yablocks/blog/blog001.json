@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/blog/Blog001",
+    "section": "blog/blog001"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/image 22 1.png",
+      "alt": ""
+    },
+    "overtitle": "Actualité & Evenement",
+    "title": "Suivre les Actualité & Evenement",
+    "cards": [
+      {
+        "coverImage": {
+          "src": "",
+          "alt": ""
+        },
+        "title": "",
+        "link": "",
+        "tags": [
+          {
+            "label": "Test"
+          }
+        ]
+      }
+    ]
+  }
+}

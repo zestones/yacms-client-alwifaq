@@ -4,6 +4,8 @@
     "description": "",
     "keywords": []
   },
-  "theme": "light",
-  "blocks": []
+  "theme": "elegant-light",
+  "blocks": [
+    "./blog001.json"
+  ]
 }
