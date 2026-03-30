@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "title": "Vente de gâteaux — Les sœurs mobilisées 2026 - Mosquée Al Wifaq",
+        "description": "Tout au long du Ramadan 2026, les sœurs de la communauté organisent des ventes de gâteaux pour contribuer au financement de la mosquée.",
+        "keywords": [
+            "ramadan",
+            "vente gâteaux",
+            "communauté",
+            "mosquée Al Wifaq",
+            "Saint-Étienne",
+            "alwifaq"
+        ],
+        "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+        "canonical": "/blog/vente-gateaux-soeurs-mobilisees-2026",
+        "locale": "fr_FR",
+        "robots": "index, follow",
+        "og": {
+            "type": "article",
+            "image": "/images/vente-gateau.png",
+            "imageAlt": "Événement communautaire Al Wifaq"
+        },
+        "structuredData": {
+            "type": "Article",
+            "headline": "Vente de gâteaux — Les sœurs mobilisées 2026",
+            "description": "Tout au long du Ramadan 2026, les sœurs de la communauté organisent des ventes de gâteaux pour contribuer au financement de la mosquée.",
+            "image": "/images/vente-gateau.png",
+            "datePublished": "2026-02-18",
+            "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
+        }
+    },
+    "theme": "elegant-light",
+    "blocks": [
+        "./article001.json"
+    ]
+}

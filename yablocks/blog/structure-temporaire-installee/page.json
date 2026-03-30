@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "title": "Structure temporaire installée - Mosquée Al Wifaq",
+        "description": "Une structure démontable au Square Auguste Renoir accueille les fidèles pendant 2 ans, le temps que le chantier extérieur soit terminé.",
+        "keywords": [
+            "structure temporaire",
+            "chantier",
+            "mosquée Al Wifaq",
+            "Saint-Étienne",
+            "Square Auguste Renoir",
+            "alwifaq"
+        ],
+        "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+        "canonical": "/blog/structure-temporaire-installee",
+        "locale": "fr_FR",
+        "robots": "index, follow",
+        "og": {
+            "type": "article",
+            "image": "/images/IMG.png",
+            "imageAlt": "Structure temporaire démontable"
+        },
+        "structuredData": {
+            "type": "Article",
+            "headline": "Structure temporaire installée",
+            "description": "Une structure démontable au Square Auguste Renoir accueille les fidèles pendant 2 ans, le temps que le chantier extérieur soit terminé.",
+            "image": "/images/IMG.png",
+            "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
+        }
+    },
+    "theme": "elegant-light",
+    "blocks": [
+        "./article001.json"
+    ]
+}
