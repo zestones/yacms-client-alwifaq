@@ -18,7 +18,8 @@
                 "image": {
                     "src": "/images/chantier-mur.png",
                     "alt": "Mur de soutènement achevé — Phase 1"
-                }
+                },
+                "subsections": []
             }
         ]
     }

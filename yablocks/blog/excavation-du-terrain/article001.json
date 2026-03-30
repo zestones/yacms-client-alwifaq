@@ -18,7 +18,8 @@
                 "image": {
                     "src": "/images/chantier-excavation.png",
                     "alt": "Chantier d'excavation du terrain"
-                }
+                },
+                "subsections": []
             }
         ]
     }

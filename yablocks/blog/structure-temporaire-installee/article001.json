@@ -15,7 +15,8 @@
                 "image": {
                     "src": "/images/IMG.png",
                     "alt": "Structure temporaire démontable"
-                }
+                },
+                "subsections": []
             }
         ]
     }

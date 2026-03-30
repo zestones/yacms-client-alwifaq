@@ -18,7 +18,8 @@
                 "image": {
                     "src": "/images/mosque-phase2.png",
                     "alt": "Flyer soirée de collecte Phase 2"
-                }
+                },
+                "subsections": []
             }
         ]
     }
