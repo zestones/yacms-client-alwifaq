@@ -11,7 +11,8 @@ export default defineConfig({
     site: 'https://alwifaq.fr',
     integrations: [react(), sitemap()],
     build: {
-        inlineStylesheets: 'always'
+        inlineStylesheets: 'always',
+        compressHTML: true
     },
     vite: {
         plugins: [tailwindcss()],
