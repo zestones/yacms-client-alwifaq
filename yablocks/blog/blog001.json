@@ -10,6 +10,20 @@
     },
     "overtitle": "Actualités & Événements",
     "title": "Suivre les Actualités & Événements",
+    "filterTags": [
+      {
+        "label": "Événements",
+        "value": "Événements"
+      },
+      {
+        "label": "Chantier",
+        "value": "Chantier"
+      },
+      {
+        "label": "Communauté",
+        "value": "Communauté"
+      }
+    ],
     "cards": [
       {
         "coverImage": {
@@ -17,12 +31,14 @@
           "alt": "Flyer soirée de collecte Phase 2"
         },
         "title": "Soirée de collecte — Phase 2",
+        "excerpt": "Grande soirée (gala) de collecte pour financer le gros œuvre de la mosquée. Objectif : réunir les fonds nécessaires pour lancer la construction des 3 niveaux.",
         "link": "",
         "tags": [
           {
             "label": "Événements"
           }
-        ]
+        ],
+        "date": "2025-02-09"
       },
       {
         "coverImage": {
@@ -30,12 +46,14 @@
           "alt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
         },
         "title": "Collecte Ramadan",
+        "excerpt": "Le Ramadan 2026 a commencé le 18 février. Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah.",
         "link": "",
         "tags": [
           {
             "label": "Événements"
           }
-        ]
+        ],
+        "date": "2026-02-18"
       },
       {
         "coverImage": {
@@ -43,12 +61,14 @@
           "alt": "Événement communautaire Al Wifaq"
         },
         "title": "Vente de gâteaux — Les sœurs mobilisées",
+        "excerpt": "Tout au long du Ramadan 2026, les sœurs de la communauté organisent des ventes de gâteaux pour contribuer au financement de la mosquée.",
         "link": "",
         "tags": [
           {
             "label": "Communauté"
           }
-        ]
+        ],
+        "date": "2026-02-18"
       },
       {
         "coverImage": {
@@ -56,6 +76,7 @@
           "alt": "Mur de soutènement achevé — Phase 1"
         },
         "title": "Phase 1 terminée — Terrassement achevé",
+        "excerpt": "400 000 € collectés, 3 000 m³ de terre excavée et 130 m de mur de soutènement construits. 150 000 € d'économies réinvesties en Phase 2.",
         "link": "",
         "tags": [
           {
@@ -69,6 +90,7 @@
           "alt": "Chantier d'excavation du terrain"
         },
         "title": "Excavation du terrain",
+        "excerpt": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah. Seuls la location des machines et le gasoil ont été facturés.",
         "link": "",
         "tags": [
           {
@@ -82,6 +104,7 @@
           "alt": "Structure temporaire démontable"
         },
         "title": "Structure temporaire installée",
+        "excerpt": "Une structure démontable au Square Auguste Renoir accueille les fidèles pendant 2 ans, le temps que le chantier extérieur soit terminé.",
         "link": "",
         "tags": [
           {
@@ -95,12 +118,14 @@
           "alt": ""
         },
         "title": "Salat AL-Aïd ce 20 Mars à 8h00",
+        "excerpt": "La Salat Al-Aïd aura lieu ce Vendredi 20 Mars à 08h00, une salle pour les femmes sera ouverte. Merci de prévoir vos tapis de prière",
         "link": "",
         "tags": [
           {
             "label": "Événements"
           }
-        ]
+        ],
+        "date": "2026-03-20"
       }
     ]
   }
