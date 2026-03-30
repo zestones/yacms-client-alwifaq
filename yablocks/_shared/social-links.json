@@ -23,11 +23,11 @@
         }
       },
       {
-        "label": "HelloAsso",
-        "url": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
+        "label": "Whatsapp",
+        "url": "https://chat.whatsapp.com/LQscNLSnMpRGUonmiyV61O",
         "icon": {
-          "src": "/logos/helloasso-logo.png",
-          "alt": "HelloAsso logo"
+          "src": "/logos/whatsapp.png",
+          "alt": "Whatsapp logo"
         }
       },
       {
@@ -36,6 +36,14 @@
         "icon": {
           "src": "/logos/Instagram_icon.png",
           "alt": "Instagram logo"
+        }
+      },
+      {
+        "label": "HelloAsso",
+        "url": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
+        "icon": {
+          "src": "/logos/helloasso-logo.png",
+          "alt": "HelloAsso logo"
         }
       }
     ],
