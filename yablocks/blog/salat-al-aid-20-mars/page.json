@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "title": "Salat AL-Aïd ce 20 Mars à 8h00 - Mosquée Al Wifaq",
+        "description": "La Salat Al-Aïd aura lieu ce Vendredi 20 Mars à 08h00, une salle pour les femmes sera ouverte. Merci de prévoir vos tapis de prière.",
+        "keywords": [
+            "salat al aid",
+            "prière",
+            "mosquée Al Wifaq",
+            "Saint-Étienne",
+            "événement religieux",
+            "alwifaq"
+        ],
+        "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+        "canonical": "https://alwifaq.fr/blog/salat-al-aid-20-mars",
+        "locale": "fr_FR",
+        "robots": "index, follow",
+        "og": {
+            "type": "article",
+            "image": "/images/mawaqit-1.png",
+            "imageAlt": "Informations sur la Salat Al-Aïd à la Mosquée Al Wifaq"
+        },
+        "structuredData": {
+            "type": "Article",
+            "headline": "Salat AL-Aïd ce 20 Mars à 8h00",
+            "description": "La Salat Al-Aïd aura lieu ce Vendredi 20 Mars à 08h00, une salle pour les femmes sera ouverte. Merci de prévoir vos tapis de prière.",
+            "image": "/images/mawaqit-1.png",
+            "datePublished": "2026-03-20",
+            "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
+        }
+    },
+    "theme": "elegant-light",
+    "blocks": [
+        "../../_shared/navigation002.json",
+        "../../_shared/social-links.json",
+        "./article001.json",
+        "../../_shared/footer.json"
+    ]
+}

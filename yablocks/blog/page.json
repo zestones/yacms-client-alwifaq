@@ -1,9 +1,44 @@
 {
   "meta": {
-    "title": "blog",
-    "description": "",
-    "keywords": []
+    "title": "Actualités & Événements - Mosquée Al Wifaq",
+    "description": "Suivez toutes les actualités et événements de la Mosquée Al Wifaq à Saint-Étienne. Chantier, collectes, prières et vie communautaire.",
+    "keywords": [
+      "actualités",
+      "événements",
+      "mosquée Al Wifaq",
+      "Saint-Étienne",
+      "chantier",
+      "collectes",
+      "prières",
+      "communauté",
+      "alwifaq"
+    ],
+    "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+    "canonical": "https://alwifaq.fr/blog",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "Actualités et événements de la Mosquée Al Wifaq"
+    },
+    "structuredData": {
+      "type": "WebSite",
+      "name": "Blog Mosquée Al Wifaq",
+      "description": "Actualités et événements de la Mosquée Al Wifaq à Saint-Étienne",
+      "url": "/blog",
+      "publisher": {
+        "type": "Organization",
+        "name": "Association Cultuelle de Montchovet et de Saint-Étienne",
+        "logo": "/logo.png"
+      }
+    }
   },
-  "theme": "light",
-  "blocks": []
+  "theme": "elegant-light",
+  "blocks": [
+    "../_shared/navigation002.json",
+    "../_shared/social-links.json",
+    "./blog001.json",
+    "../_shared/footer.json"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/article/Article001",
+        "section": "blog/salat-al-aid-20-mars"
+    },
+    "data": {
+        "navbarHeight": 96,
+        "topGap": 100,
+        "sections": [
+            {
+                "heading": "Salat AL-Aïd ce 20 Mars à 8h00",
+                "paragraphs": [
+                    {
+                        "text": "La Salat Al-Aïd aura lieu ce Vendredi 20 Mars à 08h00, une salle pour les femmes sera ouverte."
+                    },
+                    {
+                        "text": "Merci de prévoir vos tapis de prière"
+                    }
+                ],
+                "image": {
+                    "src": "/images/mawaqit-1.png",
+                    "alt": "Informations sur la Salat Al-Aïd du 20 mars 2026 à la Mosquée Al Wifaq"
+                },
+                "subsections": []
+            }
+        ]
+    }
+}

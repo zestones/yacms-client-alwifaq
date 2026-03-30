@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "title": "Phase 1 terminée — Terrassement achevé - Mosquée Al Wifaq",
+        "description": "400 000 € collectés, 3 000 m³ de terre excavée et 130 m de mur de soutènement construits. 150 000 € d'économies réinvesties en Phase 2.",
+        "keywords": [
+            "phase 1",
+            "terrassement",
+            "chantier",
+            "mosquée Al Wifaq",
+            "Saint-Étienne",
+            "alwifaq"
+        ],
+        "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+        "canonical": "https://alwifaq.fr/blog/phase-1-terminee-terrassement-acheve",
+        "locale": "fr_FR",
+        "robots": "index, follow",
+        "og": {
+            "type": "article",
+            "image": "/images/chantier-mur.png",
+            "imageAlt": "Mur de soutènement achevé — Phase 1"
+        },
+        "structuredData": {
+            "type": "Article",
+            "headline": "Phase 1 terminée — Terrassement achevé",
+            "description": "400 000 € collectés, 3 000 m³ de terre excavée et 130 m de mur de soutènement construits. 150 000 € d'économies réinvesties en Phase 2.",
+            "image": "/images/chantier-mur.png",
+            "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
+        }
+    },
+    "theme": "elegant-light",
+    "blocks": [
+        "../../_shared/navigation002.json",
+        "../../_shared/social-links.json",
+        "./article001.json",
+        "../../_shared/footer.json"
+    ]
+}

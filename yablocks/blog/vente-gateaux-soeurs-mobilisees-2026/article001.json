@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/vente-gateaux-soeurs-mobilisees-2026"
+  },
+  "data": {
+    "navbarHeight": 96,
+    "topGap": 100,
+    "sections": [
+      {
+        "heading": "Vente de gâteaux — Les sœurs mobilisées",
+        "paragraphs": [
+          {
+            "text": "Tout au long du Ramadan 2026, les sœurs de la communauté organisent des ventes de gâteaux pour contribuer au financement de la mosquée."
+          }
+        ],
+        "image": {
+          "src": "/images/vente-gateau.png",
+          "alt": "Événement communautaire Al Wifaq"
+        },
+        "subsections": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/collecte-ramadan-2026"
+  },
+  "data": {
+    "navbarHeight": 96,
+    "topGap": 100,
+    "sections": [
+      {
+        "heading": "Collecte Ramadan",
+        "paragraphs": [
+          {
+            "text": "Le Ramadan 2026 a commencé le 18 février."
+          },
+          {
+            "text": "Profitez du mois béni pour contribuer à la construction de votre mosquée."
+          },
+          {
+            "text": "Chaque don est une sadaqah jariyah."
+          }
+        ],
+        "image": {
+          "src": "/images/mosque-render-3d.jpg",
+          "alt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
+        },
+        "subsections": []
+      }
+    ]
+  }
+}

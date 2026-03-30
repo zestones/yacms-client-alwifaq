@@ -24,6 +24,10 @@
         "stat": {
           "icon": "zap",
           "value": "Gala"
+        },
+        "link": {
+          "url": "/blog/soiree-collecte-phase-2",
+          "label": "Voir l'article"
         }
       },
       {
@@ -38,6 +42,10 @@
         "stat": {
           "icon": "flame",
           "value": "Sadaqah Jariyah"
+        },
+        "link": {
+          "url": "/blog/collecte-ramadan-2026",
+          "label": "Voir l'article"
         }
       },
       {
@@ -48,7 +56,11 @@
           "alt": "Événement communautaire Al Wifaq"
         },
         "category": "Communauté",
-        "date": "2026-02-18"
+        "date": "2026-02-18",
+        "link": {
+          "url": "/blog/vente-gateaux-soeurs-mobilisees-2026",
+          "label": "Voir l'article"
+        }
       },
       {
         "title": "Phase 1 terminée — Terrassement achevé",
@@ -61,6 +73,10 @@
         "stat": {
           "icon": "zap",
           "value": "400 000 €"
+        },
+        "link": {
+          "url": "/blog/phase-1-terminee-terrassement-acheve",
+          "label": "Voir l'article"
         }
       },
       {
@@ -70,7 +86,11 @@
           "src": "/images/chantier-excavation.png",
           "alt": "Chantier d'excavation du terrain"
         },
-        "category": "Chantier"
+        "category": "Chantier",
+        "link": {
+          "url": "/blog/excavation-du-terrain",
+          "label": "Voir l'article"
+        }
       },
       {
         "title": "Structure temporaire installée",
@@ -79,7 +99,11 @@
           "src": "/images/IMG.png",
           "alt": "Structure temporaire démontable"
         },
-        "category": "Chantier"
+        "category": "Chantier",
+        "link": {
+          "url": "/blog/structure-temporaire-installee",
+          "label": "Voir l'article"
+        }
       },
       {
         "title": "Salat AL-Aïd ce 20 Mars à 8h00",
@@ -89,12 +113,16 @@
           "alt": ""
         },
         "category": "Événements",
-        "date": "2026-03-20"
+        "date": "2026-03-20",
+        "link": {
+          "url": "/blog/salat-al-aid-20-mars",
+          "label": "Voir l'article"
+        }
       }
     ],
     "cta": {
-      "text": "Contribuer au projet",
-      "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
+      "text": "Voir toutes les actualités",
+      "link": "/blog",
       "icon": "arrow-right"
     }
   }

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "title": "Soirée de collecte — Phase 2 - Mosquée Al Wifaq",
+        "description": "Grande soirée (gala) de collecte pour financer le gros œuvre de la mosquée. Objectif : réunir les fonds nécessaires pour lancer la construction des 3 niveaux.",
+        "keywords": [
+            "soirée collecte",
+            "phase 2",
+            "mosquée Al Wifaq",
+            "Saint-Étienne",
+            "gala",
+            "don",
+            "alwifaq"
+        ],
+        "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+        "canonical": "https://alwifaq.fr/blog/soiree-collecte-phase-2",
+        "locale": "fr_FR",
+        "robots": "index, follow",
+        "og": {
+            "type": "article",
+            "image": "/images/mosque-phase2.png",
+            "imageAlt": "Flyer soirée de collecte Phase 2"
+        },
+        "structuredData": {
+            "type": "Article",
+            "headline": "Soirée de collecte — Phase 2",
+            "description": "Grande soirée (gala) de collecte pour financer le gros œuvre de la mosquée. Objectif : réunir les fonds nécessaires pour lancer la construction des 3 niveaux.",
+            "image": "/images/mosque-phase2.png",
+            "datePublished": "2025-02-09",
+            "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
+        }
+    },
+    "theme": "elegant-light",
+    "blocks": [
+        "../../_shared/navigation002.json",
+        "../../_shared/social-links.json",
+        "./article001.json",
+        "../../_shared/footer.json"
+    ]
+}
