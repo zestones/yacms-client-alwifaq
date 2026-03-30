@@ -1,36 +1,44 @@
 {
-    "meta": {
-        "component": "blocks/social-proof/trust/SocialLink",
-        "section": "alwifaq/social-link"
-    },
-    "data": {
-        "position": "right",
-        "links": [
-            {
-                "label": "Youtube",
-                "url": "https://www.youtube.com/@Mosquee-de-Monchovet",
-                "icon": {
-                    "src": "/logos/youtube-logo.webp",
-                    "alt": "Youtube logo"
-                }
-            },
-            {
-                "label": "Tiktok",
-                "url": "https://www.tiktok.com/@mosquee.al.wifaq42",
-                "icon": {
-                    "src": "/logos/tiktok-logo.webp",
-                    "alt": "Tiktok logo"
-                }
-            },
-            {
-                "label": "HelloAsso",
-                "url": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
-                "icon": {
-                    "src": "/logos/helloasso-logo.png",
-                    "alt": "HelloAsso logo"
-                }
-            }
-        ],
-        "showLabelsOnHover": true
-    }
+  "meta": {
+    "component": "blocks/social-proof/trust/SocialLink",
+    "section": "alwifaq/social-link"
+  },
+  "data": {
+    "position": "right",
+    "links": [
+      {
+        "label": "Youtube",
+        "url": "https://www.youtube.com/@Mosquee-de-Monchovet",
+        "icon": {
+          "src": "/logos/youtube-logo.webp",
+          "alt": "Youtube logo"
+        }
+      },
+      {
+        "label": "Tiktok",
+        "url": "https://www.tiktok.com/@mosquee.al.wifaq42",
+        "icon": {
+          "src": "/logos/tiktok-logo.webp",
+          "alt": "Tiktok logo"
+        }
+      },
+      {
+        "label": "HelloAsso",
+        "url": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
+        "icon": {
+          "src": "/logos/helloasso-logo.png",
+          "alt": "HelloAsso logo"
+        }
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mosqueealwifaq42?igsh=MWFmdng0YTg3b2JkNw%3D%3D&utm_source=qr",
+        "icon": {
+          "src": "/logos/Instagram_icon.png",
+          "alt": "Instagram logo"
+        }
+      }
+    ],
+    "showLabelsOnHover": true
+  }
 }
