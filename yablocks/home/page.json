@@ -66,8 +66,9 @@
   },
   "theme": "elegant-light",
   "blocks": [
-    "./navigation002.json",
-    "./social-links.json",
+    "../_shared/navigation002.json",
+    "../_shared/social-links.json",
+    "../_shared/social-links.json",
     "./hero.json",
     "./prayer-times.json",
     "./features.json",
@@ -76,6 +77,6 @@
     "./portfolio.json",
     "./testimonial.json",
     "./contact.json",
-    "./footer.json"
+    "../_shared/footer.json"
   ]
 }

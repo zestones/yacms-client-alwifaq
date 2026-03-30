@@ -4,6 +4,8 @@
     "section": "blog/collecte-ramadan-2026"
   },
   "data": {
+    "navbarHeight": 96,
+    "topGap": 20,
     "sections": [
       {
         "heading": "Collecte Ramadan",

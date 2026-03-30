@@ -12,23 +12,23 @@
     "links": [
       {
         "label": "Horaires",
-        "href": "#section-prayer"
+        "href": "/#section-prayer"
       },
       {
         "label": "Le Projet",
-        "href": "#section-about"
+        "href": "/#section-about"
       },
       {
         "label": "Historique",
-        "href": "#section-timeline"
+        "href": "/#section-timeline"
       },
       {
         "label": "Actualités",
-        "href": "#section-actualites"
+        "href": "/#section-actualites"
       },
       {
         "label": "Contact",
-        "href": "#section-contact"
+        "href": "/#section-contact"
       },
       {
         "label": "Cagnotte Ramadan",

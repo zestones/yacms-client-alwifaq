@@ -30,6 +30,9 @@
     },
     "theme": "elegant-light",
     "blocks": [
-        "./article001.json"
+        "../../_shared/navigation002.json",
+        "../../_shared/social-links.json",
+        "./article001.json",
+        "../../_shared/footer.json"
     ]
 }

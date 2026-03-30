@@ -4,6 +4,8 @@
     "section": "blog/vente-gateaux-soeurs-mobilisees-2026"
   },
   "data": {
+    "navbarHeight": 96,
+    "topGap": 100,
     "sections": [
       {
         "heading": "Vente de gâteaux — Les sœurs mobilisées",

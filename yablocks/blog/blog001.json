@@ -4,6 +4,8 @@
     "section": "blog/blog001"
   },
   "data": {
+    "navbarHeight": 96,
+    "topGap": 20,
     "backgroundImage": {
       "src": "/images/image 22 1.png",
       "alt": "Arrière-plan de la page des actualités de la Mosquée Al Wifaq"

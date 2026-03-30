@@ -4,6 +4,8 @@
         "section": "blog/phase-1-terminee-terrassement-acheve"
     },
     "data": {
+    "navbarHeight": 96,
+    "topGap": 20,
         "sections": [
             {
                 "heading": "Phase 1 terminée — Terrassement achevé",

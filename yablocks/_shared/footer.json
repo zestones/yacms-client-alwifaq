@@ -64,16 +64,7 @@
     ],
     "legal": {
       "copyright": "Association Cultuelle de Montchovet et de Saint-Étienne — Tous droits réservés.",
-      "links": [
-        {
-          "text": "Mentions légales",
-          "href": "/mentions-legales"
-        },
-        {
-          "text": "Politique de confidentialité",
-          "href": "/confidentialite"
-        }
-      ]
+      "links": []
     },
     "certifications": []
   }

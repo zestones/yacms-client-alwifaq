@@ -4,6 +4,8 @@
         "section": "blog/soiree-collecte-phase-2"
     },
     "data": {
+    "navbarHeight": 96,
+    "topGap": 20,
         "sections": [
             {
                 "heading": "Soirée de collecte — Phase 2",
