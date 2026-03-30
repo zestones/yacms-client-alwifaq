@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/trust/SocialLink",
+        "section": "alwifaq/social-link"
+    },
+    "data": {
+        "position": "right",
+        "links": [
+            {
+                "label": "Sample Label",
+                "url": "https://example.com",
+                "icon": {
+                    "src": "Sample text",
+                    "alt": "Sample text"
+                }
+            },
+            {
+                "label": "Sample Label",
+                "url": "https://example.com",
+                "icon": {
+                    "src": "Sample text",
+                    "alt": "Sample text"
+                }
+            },
+            {
+                "label": "Sample Label",
+                "url": "https://example.com",
+                "icon": {
+                    "src": "Sample text",
+                    "alt": "Sample text"
+                }
+            }
+        ],
+        "showLabelsOnHover": true
+    }
+}
