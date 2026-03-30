@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "component": "blocks/content/article/Article001",
+        "section": "blog/structure-temporaire-installee"
+    },
+    "data": {
+        "sections": [
+            {
+                "heading": "Structure temporaire installée",
+                "paragraphs": [
+                    {
+                        "text": "Une structure démontable au Square Auguste Renoir accueille les fidèles pendant 2 ans, le temps que le chantier extérieur soit terminé."
+                    }
+                ],
+                "image": {
+                    "src": "/images/IMG.png",
+                    "alt": "Structure temporaire démontable"
+                }
+            }
+        ]
+    }
+}

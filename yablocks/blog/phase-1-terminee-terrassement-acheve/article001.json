@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "component": "blocks/content/article/Article001",
+        "section": "blog/phase-1-terminee-terrassement-acheve"
+    },
+    "data": {
+        "sections": [
+            {
+                "heading": "Phase 1 terminée — Terrassement achevé",
+                "paragraphs": [
+                    {
+                        "text": "400 000 € collectés, 3 000 m³ de terre excavée et 130 m de mur de soutènement construits."
+                    },
+                    {
+                        "text": "150 000 € d'économies réinvesties en Phase 2."
+                    }
+                ],
+                "image": {
+                    "src": "/images/chantier-mur.png",
+                    "alt": "Mur de soutènement achevé — Phase 1"
+                }
+            }
+        ]
+    }
+}

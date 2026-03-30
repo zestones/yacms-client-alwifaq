@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "component": "blocks/content/article/Article001",
+        "section": "blog/salat-al-aid-20-mars"
+    },
+    "data": {
+        "sections": [
+            {
+                "heading": "Salat AL-Aïd ce 20 Mars à 8h00",
+                "paragraphs": [
+                    {
+                        "text": "La Salat Al-Aïd aura lieu ce Vendredi 20 Mars à 08h00, une salle pour les femmes sera ouverte."
+                    },
+                    {
+                        "text": "Merci de prévoir vos tapis de prière"
+                    }
+                ],
+                "image": {
+                    "src": "/images/mawaqit-1.png",
+                    "alt": ""
+                }
+            }
+        ]
+    }
+}

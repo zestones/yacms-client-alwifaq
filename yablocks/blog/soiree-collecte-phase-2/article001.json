@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "component": "blocks/content/article/Article001",
+        "section": "blog/soiree-collecte-phase-2"
+    },
+    "data": {
+        "sections": [
+            {
+                "heading": "Soirée de collecte — Phase 2",
+                "paragraphs": [
+                    {
+                        "text": "Grande soirée (gala) de collecte pour financer le gros œuvre de la mosquée."
+                    },
+                    {
+                        "text": "Objectif : réunir les fonds nécessaires pour lancer la construction des 3 niveaux."
+                    }
+                ],
+                "image": {
+                    "src": "/images/mosque-phase2.png",
+                    "alt": "Flyer soirée de collecte Phase 2"
+                }
+            }
+        ]
+    }
+}

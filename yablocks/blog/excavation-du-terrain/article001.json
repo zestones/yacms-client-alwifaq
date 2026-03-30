@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "component": "blocks/content/article/Article001",
+        "section": "blog/excavation-du-terrain"
+    },
+    "data": {
+        "sections": [
+            {
+                "heading": "Excavation du terrain",
+                "paragraphs": [
+                    {
+                        "text": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah."
+                    },
+                    {
+                        "text": "Seuls la location des machines et le gasoil ont été facturés."
+                    }
+                ],
+                "image": {
+                    "src": "/images/chantier-excavation.png",
+                    "alt": "Chantier d'excavation du terrain"
+                }
+            }
+        ]
+    }
+}

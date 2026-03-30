@@ -32,7 +32,7 @@
         },
         "title": "Salat AL-Aïd ce 20 Mars à 8h00",
         "excerpt": "La Salat Al-Aïd aura lieu ce Vendredi 20 Mars à 08h00, une salle pour les femmes sera ouverte. Merci de prévoir vos tapis de prière",
-        "link": "",
+        "link": "/blog/salat-al-aid-20-mars",
         "tags": [
           {
             "label": "Événements"
@@ -47,7 +47,7 @@
         },
         "title": "Collecte Ramadan",
         "excerpt": "Le Ramadan 2026 a commencé le 18 février. Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah.",
-        "link": "",
+        "link": "/blog/collecte-ramadan-2026",
         "tags": [
           {
             "label": "Événements"
@@ -62,7 +62,7 @@
         },
         "title": "Vente de gâteaux — Les sœurs mobilisées",
         "excerpt": "Tout au long du Ramadan 2026, les sœurs de la communauté organisent des ventes de gâteaux pour contribuer au financement de la mosquée.",
-        "link": "",
+        "link": "/blog/vente-gateaux-soeurs-mobilisees-2026",
         "tags": [
           {
             "label": "Communauté"
@@ -77,7 +77,7 @@
         },
         "title": "Soirée de collecte — Phase 2",
         "excerpt": "Grande soirée (gala) de collecte pour financer le gros œuvre de la mosquée. Objectif : réunir les fonds nécessaires pour lancer la construction des 3 niveaux.",
-        "link": "",
+        "link": "/blog/soiree-collecte-phase-2",
         "tags": [
           {
             "label": "Événements"
@@ -92,7 +92,7 @@
         },
         "title": "Phase 1 terminée — Terrassement achevé",
         "excerpt": "400 000 € collectés, 3 000 m³ de terre excavée et 130 m de mur de soutènement construits. 150 000 € d'économies réinvesties en Phase 2.",
-        "link": "",
+        "link": "/blog/phase-1-terminee-terrassement-acheve",
         "tags": [
           {
             "label": "Chantier"
@@ -106,7 +106,7 @@
         },
         "title": "Excavation du terrain",
         "excerpt": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah. Seuls la location des machines et le gasoil ont été facturés.",
-        "link": "",
+        "link": "/blog/excavation-du-terrain",
         "tags": [
           {
             "label": "Chantier"
@@ -120,7 +120,7 @@
         },
         "title": "Structure temporaire installée",
         "excerpt": "Une structure démontable au Square Auguste Renoir accueille les fidèles pendant 2 ans, le temps que le chantier extérieur soit terminé.",
-        "link": "",
+        "link": "/blog/structure-temporaire-installee",
         "tags": [
           {
             "label": "Chantier"
