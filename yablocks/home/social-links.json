@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/trust/SocialLink",
+    "section": "alwifaq/social-link"
+  },
+  "data": {
+    "position": "right",
+    "links": [
+      {
+        "label": "Youtube",
+        "url": "https://www.youtube.com/@Mosquee-de-Monchovet",
+        "icon": {
+          "src": "/logos/youtube-logo.webp",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Tiktok",
+        "url": "https://www.tiktok.com/@mosquee.al.wifaq42",
+        "icon": {
+          "src": "/logos/tiktok-logo.webp",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Sample Label",
+        "url": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee",
+        "icon": {
+          "src": "/logos/helloasso-logo.png",
+          "alt": "Sample text"
+        }
+      }
+    ],
+    "showLabelsOnHover": true
+  }
+}

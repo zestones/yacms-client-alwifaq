@@ -18,8 +18,14 @@
     "/images/vente-gateau.png"
   ],
   "logos": [
+    "/logos/hello asso.jpg",
+    "/logos/helloasso-logo.png",
     "/logos/logo-1.png",
-    "/logos/logo-2.png"
+    "/logos/logo-2.png",
+    "/logos/tiktok-logo.webp",
+    "/logos/tiktok.avif",
+    "/logos/youtube-logo.avif",
+    "/logos/youtube-logo.webp"
   ],
   "assets": []
 }

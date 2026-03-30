@@ -67,6 +67,7 @@
   "theme": "elegant-light",
   "blocks": [
     "./navigation002.json",
+    "./social-links.json",
     "./hero.json",
     "./prayer-times.json",
     "./features.json",
