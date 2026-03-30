@@ -4,8 +4,8 @@
         "section": "blog/excavation-du-terrain"
     },
     "data": {
-    "navbarHeight": 96,
-    "topGap": 20,
+        "navbarHeight": 96,
+        "topGap": 100,
         "sections": [
             {
                 "heading": "Excavation du terrain",

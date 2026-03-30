@@ -4,8 +4,8 @@
         "section": "blog/structure-temporaire-installee"
     },
     "data": {
-    "navbarHeight": 96,
-    "topGap": 20,
+        "navbarHeight": 96,
+        "topGap": 100,
         "sections": [
             {
                 "heading": "Structure temporaire installée",
