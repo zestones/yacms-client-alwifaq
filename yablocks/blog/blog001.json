@@ -27,18 +27,18 @@
     "cards": [
       {
         "coverImage": {
-          "src": "/images/mosque-phase2.png",
-          "alt": "Flyer soirée de collecte Phase 2"
+          "src": "/images/mawaqit-1.png",
+          "alt": ""
         },
-        "title": "Soirée de collecte — Phase 2",
-        "excerpt": "Grande soirée (gala) de collecte pour financer le gros œuvre de la mosquée. Objectif : réunir les fonds nécessaires pour lancer la construction des 3 niveaux.",
+        "title": "Salat AL-Aïd ce 20 Mars à 8h00",
+        "excerpt": "La Salat Al-Aïd aura lieu ce Vendredi 20 Mars à 08h00, une salle pour les femmes sera ouverte. Merci de prévoir vos tapis de prière",
         "link": "",
         "tags": [
           {
             "label": "Événements"
           }
         ],
-        "date": "2025-02-09"
+        "date": "2026-03-20"
       },
       {
         "coverImage": {
@@ -69,6 +69,21 @@
           }
         ],
         "date": "2026-02-18"
+      },
+      {
+        "coverImage": {
+          "src": "/images/mosque-phase2.png",
+          "alt": "Flyer soirée de collecte Phase 2"
+        },
+        "title": "Soirée de collecte — Phase 2",
+        "excerpt": "Grande soirée (gala) de collecte pour financer le gros œuvre de la mosquée. Objectif : réunir les fonds nécessaires pour lancer la construction des 3 niveaux.",
+        "link": "",
+        "tags": [
+          {
+            "label": "Événements"
+          }
+        ],
+        "date": "2025-02-09"
       },
       {
         "coverImage": {
@@ -111,21 +126,6 @@
             "label": "Chantier"
           }
         ]
-      },
-      {
-        "coverImage": {
-          "src": "/images/mawaqit-1.png",
-          "alt": ""
-        },
-        "title": "Salat AL-Aïd ce 20 Mars à 8h00",
-        "excerpt": "La Salat Al-Aïd aura lieu ce Vendredi 20 Mars à 08h00, une salle pour les femmes sera ouverte. Merci de prévoir vos tapis de prière",
-        "link": "",
-        "tags": [
-          {
-            "label": "Événements"
-          }
-        ],
-        "date": "2026-03-20"
       }
     ]
   }
