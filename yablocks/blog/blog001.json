@@ -8,19 +8,97 @@
       "src": "/images/image 22 1.png",
       "alt": ""
     },
-    "overtitle": "Actualité & Evenement",
-    "title": "Suivre les Actualité & Evenement",
+    "overtitle": "Actualités & Événements",
+    "title": "Suivre les Actualités & Événements",
     "cards": [
       {
         "coverImage": {
-          "src": "",
-          "alt": ""
+          "src": "/images/mosque-phase2.png",
+          "alt": "Flyer soirée de collecte Phase 2"
         },
-        "title": "",
+        "title": "Soirée de collecte — Phase 2",
         "link": "",
         "tags": [
           {
-            "label": "Test"
+            "label": "Événements"
+          }
+        ]
+      },
+      {
+        "coverImage": {
+          "src": "/images/mosque-render-3d.jpg",
+          "alt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
+        },
+        "title": "Collecte Ramadan",
+        "link": "",
+        "tags": [
+          {
+            "label": "Événements"
+          }
+        ]
+      },
+      {
+        "coverImage": {
+          "src": "/images/vente-gateau.png",
+          "alt": "Événement communautaire Al Wifaq"
+        },
+        "title": "Vente de gâteaux — Les sœurs mobilisées",
+        "link": "",
+        "tags": [
+          {
+            "label": "Communauté"
+          }
+        ]
+      },
+      {
+        "coverImage": {
+          "src": "/images/chantier-mur.png",
+          "alt": "Mur de soutènement achevé — Phase 1"
+        },
+        "title": "Phase 1 terminée — Terrassement achevé",
+        "link": "",
+        "tags": [
+          {
+            "label": "Chantier"
+          }
+        ]
+      },
+      {
+        "coverImage": {
+          "src": "/images/chantier-excavation.png",
+          "alt": "Chantier d'excavation du terrain"
+        },
+        "title": "Excavation du terrain",
+        "link": "",
+        "tags": [
+          {
+            "label": "Chantier"
+          }
+        ]
+      },
+      {
+        "coverImage": {
+          "src": "/images/IMG.png",
+          "alt": "Structure temporaire démontable"
+        },
+        "title": "Structure temporaire installée",
+        "link": "",
+        "tags": [
+          {
+            "label": "Chantier"
+          }
+        ]
+      },
+      {
+        "coverImage": {
+          "src": "/images/mawaqit-1.png",
+          "alt": ""
+        },
+        "title": "Salat AL-Aïd ce 20 Mars à 8h00",
+        "link": "",
+        "tags": [
+          {
+            "label": "Événements"
           }
         ]
       }
