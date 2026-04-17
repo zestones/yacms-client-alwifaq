@@ -36,9 +36,9 @@
   },
   "theme": "elegant-light",
   "blocks": [
-    "../_shared/navigation002.json",
-    "../_shared/social-links.json",
+    "@shared/navigation002.json",
+    "@shared/social-links.json",
     "./blog001.json",
-    "../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

@@ -1,37 +1,37 @@
 {
-    "meta": {
-        "title": "Excavation du terrain - Mosquée Al Wifaq",
-        "description": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah. Seuls la location des machines et le gasoil ont été facturés.",
-        "keywords": [
-            "excavation",
-            "chantier",
-            "bénévolat",
-            "mosquée Al Wifaq",
-            "Saint-Étienne",
-            "alwifaq"
-        ],
-        "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
-        "canonical": "https://alwifaq.fr/blog/excavation-du-terrain",
-        "locale": "fr_FR",
-        "robots": "index, follow",
-        "og": {
-            "type": "article",
-            "image": "/images/chantier-excavation.png",
-            "imageAlt": "Chantier d'excavation du terrain"
-        },
-        "structuredData": {
-            "type": "Article",
-            "headline": "Excavation du terrain",
-            "description": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah. Seuls la location des machines et le gasoil ont été facturés.",
-            "image": "/images/chantier-excavation.png",
-            "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
-        }
+  "meta": {
+    "title": "Excavation du terrain - Mosquée Al Wifaq",
+    "description": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah. Seuls la location des machines et le gasoil ont été facturés.",
+    "keywords": [
+      "excavation",
+      "chantier",
+      "bénévolat",
+      "mosquée Al Wifaq",
+      "Saint-Étienne",
+      "alwifaq"
+    ],
+    "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+    "canonical": "https://alwifaq.fr/blog/excavation-du-terrain",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "og": {
+      "type": "article",
+      "image": "/images/chantier-excavation.png",
+      "imageAlt": "Chantier d'excavation du terrain"
     },
-    "theme": "elegant-light",
-    "blocks": [
-        "../../_shared/navigation002.json",
-        "../../_shared/social-links.json",
-        "./article001.json",
-        "../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "Article",
+      "headline": "Excavation du terrain",
+      "description": "Près de 3 000 m³ de terre excavés grâce au travail bénévole Fi Sabil'Allah. Seuls la location des machines et le gasoil ont été facturés.",
+      "image": "/images/chantier-excavation.png",
+      "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
+    }
+  },
+  "theme": "elegant-light",
+  "blocks": [
+    "@shared/navigation002.json",
+    "@shared/social-links.json",
+    "./article001.json",
+    "@shared/footer.json"
+  ]
 }

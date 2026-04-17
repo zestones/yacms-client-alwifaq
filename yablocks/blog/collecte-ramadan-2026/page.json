@@ -1,39 +1,39 @@
 {
-    "meta": {
-        "title": "Collecte Ramadan 2026 - Mosquée Al Wifaq",
-        "description": "Le Ramadan 2026 a commencé le 18 février. Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah.",
-        "keywords": [
-            "ramadan",
-            "collecte",
-            "mosquée Al Wifaq",
-            "Saint-Étienne",
-            "sadaqah jariyah",
-            "don",
-            "alwifaq"
-        ],
-        "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
-        "canonical": "https://alwifaq.fr/blog/collecte-ramadan-2026",
-        "locale": "fr_FR",
-        "robots": "index, follow",
-        "og": {
-            "type": "article",
-            "image": "/images/mosque-render-3d.jpg",
-            "imageAlt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
-        },
-        "structuredData": {
-            "type": "Article",
-            "headline": "Collecte Ramadan 2026",
-            "description": "Le Ramadan 2026 a commencé le 18 février. Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah.",
-            "image": "/images/mosque-render-3d.jpg",
-            "datePublished": "2026-02-18",
-            "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
-        }
+  "meta": {
+    "title": "Collecte Ramadan 2026 - Mosquée Al Wifaq",
+    "description": "Le Ramadan 2026 a commencé le 18 février. Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah.",
+    "keywords": [
+      "ramadan",
+      "collecte",
+      "mosquée Al Wifaq",
+      "Saint-Étienne",
+      "sadaqah jariyah",
+      "don",
+      "alwifaq"
+    ],
+    "author": "Association Cultuelle de Montchovet et de Saint-Étienne",
+    "canonical": "https://alwifaq.fr/blog/collecte-ramadan-2026",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "og": {
+      "type": "article",
+      "image": "/images/mosque-render-3d.jpg",
+      "imageAlt": "Flyer collecte Ramadan — Mosquée Al Wifaq"
     },
-    "theme": "elegant-light",
-    "blocks": [
-        "../../_shared/navigation002.json",
-        "../../_shared/social-links.json",
-        "./article001.json",
-        "../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "Article",
+      "headline": "Collecte Ramadan 2026",
+      "description": "Le Ramadan 2026 a commencé le 18 février. Profitez du mois béni pour contribuer à la construction de votre mosquée. Chaque don est une sadaqah jariyah.",
+      "image": "/images/mosque-render-3d.jpg",
+      "datePublished": "2026-02-18",
+      "author": "Association Cultuelle de Montchovet et de Saint-Étienne"
+    }
+  },
+  "theme": "elegant-light",
+  "blocks": [
+    "@shared/navigation002.json",
+    "@shared/social-links.json",
+    "./article001.json",
+    "@shared/footer.json"
+  ]
 }
